@@ -1,0 +1,20 @@
+body{
+  background-color: #39FF14;
+}
+* {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+* {
+  color: #F516E2;
+  font-size: 1.57em;
+}
+
+.bg-image {
+  background-image: url('Matrix.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
